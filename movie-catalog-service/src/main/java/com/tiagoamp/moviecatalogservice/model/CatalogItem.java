@@ -8,7 +8,6 @@ public class CatalogItem {
 	
 	
 	public CatalogItem(String name, String desc, int rating) {
-		super();
 		this.name = name;
 		this.desc = desc;
 		this.rating = rating;
